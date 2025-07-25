@@ -13,3 +13,7 @@ This is a Python-based quiz application that uses a graphical user interface (GU
 - `data.py`: Contains the `question_data` list, which holds the questions and answers.
 - `quiz_brain.py`: Manages the quiz logic, question progression, and score tracking.
 - `ui.py`: Handles the graphical interface using Tkinter.
+
+## License
+
+This project is created for eductional purpose.
