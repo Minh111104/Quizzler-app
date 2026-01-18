@@ -1,4 +1,4 @@
-# Quizzler-app
+# Quizzler-app 💡
 This is a Python-based quiz application that uses a graphical user interface (GUI) to present users with a series of multiple-choice questions. The app tracks the user's score as they answer the questions and provides feedback after each question.
 
 ## Features
